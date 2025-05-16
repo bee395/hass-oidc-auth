@@ -1,7 +1,7 @@
 # How do I use the OIDC Integration for Home Assistant?
 
 Here's a step by step guide to use the integration:
-
+https://github.com/christiaangoossens/hass-oidc-auth/blob/main/docs/configuration.md
 ### Step 1: HACS
 Install the integration through [HACS](https://hacs.xyz/). You can add it automatically using the button below, or use the Github URL and type `Integration` in the manual Custom Repository add dialog.
 
@@ -9,7 +9,7 @@ Install the integration through [HACS](https://hacs.xyz/). You can add it automa
 
 
 ### Step 2: Configuration of the integration
-The integration is currently configurable through YAML only. See the [Configuration Guide](./docs/configuration.md) for more details or pick your OIDC provider below:
+The integration is currently configurable through YAML only. See the [Configuration Guide](./configuration.md) for more details or pick your OIDC provider below:
 
 | <img src="https://goauthentik.io/img/icon_top_brand_colour.svg" width="100"> | <img src="https://www.authelia.com/images/branding/logo-cropped.png" width="100"> | <img src="https://github.com/user-attachments/assets/4ceb2708-9f29-4694-b797-be833efce17d" width="100"> |
 |:-----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
